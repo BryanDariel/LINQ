@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 //Necesario
 using System.Xml.Linq;
 
-namespace LINQ2{
+namespace LINQ{
     class Program{
         static void Main(string[] args){
             //Creamos un documento de XML mas completo
